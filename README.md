@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ranju386
-- 👀 I’m interested in ... AWS,AZURE
-- 🌱 I’m currently learning ... AWS
-- 📫 How to reach me ... 9500186511
+- 👋 Hi, I’m Ranjini , 8 yrs Exp in Mainframe Technologies , 9 yrs Career Break
+- :mortar_board: Certified AWS Cloud Practitioner and AWS Re-start Gratuate
+- 👀 I’m interested in ... Devops,AWS
+- 🌱 I’m currently learning ... Devops 
+- 📫 How to reach me ... ranju386@gmail.com
 
 <!---
 ranju386/ranju386 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
