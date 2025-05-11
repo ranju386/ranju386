@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ranju386
 - 👀 I’m interested in ... AWS,AZURE
 - 🌱 I’m currently learning ... AWS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 9500186511
 
 <!---
